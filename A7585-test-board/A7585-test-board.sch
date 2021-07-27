@@ -893,4 +893,6 @@ Text Notes 3400 5550 0    50   ~ 0
 J400
 Text Notes 3400 5400 0    50   ~ 0
 Connector for \nI2C OLED display
+Text Notes 4250 6150 0    50   ~ 0
+I2C bus 1
 $EndSCHEMATC

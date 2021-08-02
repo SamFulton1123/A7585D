@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name A7585-test-board)(type KiCad)(uri C:/Users/fulto/Downloads/A7585D-main/A7585-test-board.pretty)(options "")(descr ""))
+  (lib (name RP_Silicon_KiCad-main)(type KiCad)(uri ${KIPRJMOD}/RP_Silicon_KiCad-main.pretty)(options "")(descr ""))
+)
